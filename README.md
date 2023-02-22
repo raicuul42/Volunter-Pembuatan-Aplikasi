@@ -5,3 +5,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut Daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Raisul Amin R, [Linkedin](https://linkedin.com/in/gilang-adhan/).
